@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peggys-jpg
-- 👀 I’m interested in ... web dev
-- 🌱 I’m currently learning ... html, css, js, google api
+- 👀 I’m interested in ... Computer Science
+- 🌱 I’m currently learning ... F#, Python, JS, C++
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... here
 
